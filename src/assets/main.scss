@@ -1,0 +1,12 @@
+html {
+  font-size: 24px;
+  user-select: none;
+}
+.my-custom-button {
+  --v-btn-height: 50px !important;
+  padding: 0px 20px 0px 20px;
+  height: 34px;
+  span.v-btn__content {
+    padding: 0px 10px 0px 10px;
+  }
+}
